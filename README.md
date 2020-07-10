@@ -1,3 +1,3 @@
 # algorithm-js
 
-algorithm interview practicing
+algorithm interview practice
