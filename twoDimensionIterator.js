@@ -1,3 +1,4 @@
+// DCP #166
 // Implement a 2D iterator class. It will be initialized with an array of arrays, and should implement the following methods:
 //     next(): returns the next element in the array of arrays. If there are no more elements, raise an exception.
 //     has_next(): returns whether or not the iterator still has elements left.

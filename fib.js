@@ -1,5 +1,3 @@
-console.log("hello");
-
 // Write a function fib(n) that takes a number as an argument. It should return
 // the nth number of the argument
 function fib(n, memo = {}) {
