@@ -9,7 +9,7 @@ the expected output would be [120, 60, 40, 30, 24].
 If our input was [3, 2, 1], the expected output would be [2, 3, 6].
 */
 
-const arrProduct = arr => {
+const arrProduct = (arr) => {
   const res = arr.map((_number, index) => {
     const workingArray = [...arr];
     workingArray.splice(index, 1);
